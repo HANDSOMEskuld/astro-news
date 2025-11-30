@@ -1,10 +1,10 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Astro News",
+  title: "Bytecho Tech",
   description: "A news website built with Astro",
-  author: "Mohammad Rahmani",
-  url: "https://astro-news-six.vercel.app",
+  author: "RickyZ",
+  url: "https://post.bytecho.tech",
   github: "https://github.com/Mrahmani71/astro-news",
   locale: "en-US",
   dir: "ltr",
