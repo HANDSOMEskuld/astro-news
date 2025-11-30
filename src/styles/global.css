@@ -23,7 +23,7 @@
     @apply cursor-default;
   }
   html {
-    @apply h-full text-[16px];
+    @apply h-full text-[24px];
   }
 
   @media (min-width: 1024px) {
